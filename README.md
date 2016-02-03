@@ -1,2 +1,2 @@
 # monster
-I am a designer  
+ designer  
