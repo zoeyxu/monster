@@ -22,4 +22,4 @@
 [8]:https://www.joomla.org
 [9]:http://www.desk.com
 
-![Image of zoeyxu](https://zoeyxu.github.com/monster/zoeyImage/dynamsoft_test.jpg)
+![Image of zoeyxu](https://zoeyxu.github.com/monster/zoeyimage/dynamsoft_test.jpg)
